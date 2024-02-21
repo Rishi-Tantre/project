@@ -20430,7 +20430,7 @@ class Approval_controller extends CI_Controller
 	}
 
 
-}
+}    
 
 /* End of file common_controller.php */
 /* Location: ./application/controllers/common_controller.php */
